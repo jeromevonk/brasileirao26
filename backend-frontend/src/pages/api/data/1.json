@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "Atlético-MG",
+    "awayTeam": "Palmeiras",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2026-01-28",
+    "time": "19:00",
+    "stadium": "Arena MRV",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Internacional",
+    "awayTeam": "Athletico-PR",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2026-01-28",
+    "time": "19:00",
+    "stadium": "Beira-Rio",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Coritiba",
+    "awayTeam": "Bragantino",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2026-01-28",
+    "time": "19:00",
+    "stadium": "Couto Pereira",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vitória",
+    "awayTeam": "Remo",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2026-01-28",
+    "time": "19:00",
+    "stadium": "Barradão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Fluminense",
+    "awayTeam": "Grêmio",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-01-28",
+    "time": "19:30",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Corinthians",
+    "awayTeam": "Bahia",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2026-01-28",
+    "time": "20:00",
+    "stadium": "Vila Belmiro",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Chapecoense",
+    "awayTeam": "Santos",
+    "homeScore": 4,
+    "awayScore": 2,
+    "date": "2026-01-28",
+    "time": "20:00",
+    "stadium": "Arena Condá",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "São Paulo",
+    "awayTeam": "Flamengo",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-01-28",
+    "time": "21:30",
+    "stadium": "Morumbis",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Mirassol",
+    "awayTeam": "Vasco",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-01-29",
+    "time": "20:00",
+    "stadium": "Maião",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Botafogo",
+    "awayTeam": "Cruzeiro",
+    "homeScore": 4,
+    "awayScore": 0,
+    "date": "2026-01-29",
+    "time": "21:30",
+    "stadium": "Nilton Santos (Engenhão)",
+    "started": true,
+    "finished": true
+  }
+]

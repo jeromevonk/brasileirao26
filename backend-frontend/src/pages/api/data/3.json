@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "Vitória",
+    "awayTeam": "Flamengo",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2026-02-10",
+    "time": "21:30",
+    "stadium": "Barradão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Mirassol",
+    "awayTeam": "Cruzeiro",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2026-02-11",
+    "time": "19:00",
+    "stadium": "Maião",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Chapecoense",
+    "awayTeam": "Coritiba",
+    "homeScore": 3,
+    "awayScore": 3,
+    "date": "2026-02-11",
+    "time": "19:00",
+    "stadium": "Arena Condá",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Atlético-MG",
+    "awayTeam": "Remo",
+    "homeScore": 3,
+    "awayScore": 3,
+    "date": "2026-02-11",
+    "time": "20:00",
+    "stadium": "Arena MRV",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vasco",
+    "awayTeam": "Bahia",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2026-02-11",
+    "time": "21:30",
+    "stadium": "São Januário",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "São Paulo",
+    "awayTeam": "Grêmio",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2026-02-11",
+    "time": "21:30",
+    "stadium": "Morumbis",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Athletico-PR",
+    "awayTeam": "Santos",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-02-12",
+    "time": "19:00",
+    "stadium": "Arena da Baixada",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Fluminense",
+    "awayTeam": "Botafogo",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2026-02-12",
+    "time": "19:30",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Corinthians",
+    "awayTeam": "Bragantino",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2026-02-12",
+    "time": "20:00",
+    "stadium": "Neo Química Arena",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Internacional",
+    "awayTeam": "Palmeiras",
+    "homeScore": 1,
+    "awayScore": 3,
+    "date": "2026-02-12",
+    "time": "21:30",
+    "stadium": "Beira-Rio",
+    "started": true,
+    "finished": true
+  }
+]
