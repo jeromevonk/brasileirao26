@@ -6,11 +6,11 @@ function isRoundComplete(round, i) {
 
 async function getRoundFromAPI(round) {
   try {
-    const response = await fetch(`
-https://api.globoesporte.globo.com/tabela/d1a37fa4-e948-43a6-ba53-ab24ab3a45b1/fase/fase-unica-campeonato-brasileiro-2026/rodada/${round}/jogos/`);
+    const URL = `https://api.globoesporte.globo.com/tabela/d1a37fa4-e948-43a6-ba53-ab24ab3a45b1/fase/fase-unica-campeonato-brasileiro-2026/rodada/${round}/jogos/`;
+    const response = await fetch(URL);
 
     if (!response.ok) {
-      throw new Error(`Failed getting round ${round}`);
+      throw new Error(`Failed getting round ${round} from ${URL}`);
     }
 
     const data = await response.json();
