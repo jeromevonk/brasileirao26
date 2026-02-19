@@ -6,7 +6,7 @@ const TEAMS = {
     "Bragantino": { initials: 'RBB', badge: 'https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg' },
     "Chapecoense": { initials: 'CHA', badge: 'https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg' },
     "Corinthians": { initials: 'COR', badge: 'https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians.svg' },
-    "Coritiba": { initials: 'CFC', badge: 'https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"' },
+    "Coritiba": { initials: 'CFC', badge: 'https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg' },
     "Cruzeiro": { initials: 'CRU', badge: 'https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg' },
     "Flamengo": { initials: 'FLA', badge: 'https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg' },
     "Fluminense": { initials: 'FLU', badge: 'https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg' },

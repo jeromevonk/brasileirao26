@@ -152,8 +152,8 @@ const ResultsMatrix = ({ matches }) => {
                                                     } else {
                                                         // Not started, show date and time
                                                         const dateStr = convertDateBrazilianFormat(match.date);
-                                                        const shortDate = dateStr.substring(0, 5);
-                                                        cellContent = `${shortDate}\n${match.time}`;
+                                                        const shortDate = dateStr ? dateStr.substring(0, 5) : '';
+                                                        cellContent = `${shortDate}\n${match.time || '-'}`;
                                                     }
                                                 } else {
                                                     cellContent = '';
