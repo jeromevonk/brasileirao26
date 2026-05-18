@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "Mirassol",
+    "awayTeam": "Santos",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2026-03-10",
+    "time": "21:30",
+    "stadium": "Maião",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Atlético-MG",
+    "awayTeam": "Internacional",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2026-03-11",
+    "time": "19:00",
+    "stadium": "Arena MRV",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Bahia",
+    "awayTeam": "Vitória",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-03-11",
+    "time": "20:00",
+    "stadium": "Casa de Apostas Arena Fonte Nova",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Flamengo",
+    "awayTeam": "Cruzeiro",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2026-03-11",
+    "time": "21:30",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Corinthians",
+    "awayTeam": "Coritiba",
+    "homeScore": 0,
+    "awayScore": 2,
+    "date": "2026-03-11",
+    "time": "21:30",
+    "stadium": "Neo Química Arena",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Remo",
+    "awayTeam": "Fluminense",
+    "homeScore": 0,
+    "awayScore": 2,
+    "date": "2026-03-12",
+    "time": "19:00",
+    "stadium": "Mangueirão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vasco",
+    "awayTeam": "Palmeiras",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-03-12",
+    "time": "19:30",
+    "stadium": "São Januário",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "São Paulo",
+    "awayTeam": "Chapecoense",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2026-03-12",
+    "time": "20:00",
+    "stadium": "Canindé",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Grêmio",
+    "awayTeam": "Bragantino",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-03-12",
+    "time": "21:30",
+    "stadium": "Arena do Grêmio",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Athletico-PR",
+    "awayTeam": "Botafogo",
+    "homeScore": 4,
+    "awayScore": 1,
+    "date": "2026-03-29",
+    "time": "19:30",
+    "stadium": "Arena da Baixada",
+    "started": true,
+    "finished": true
+  }
+]

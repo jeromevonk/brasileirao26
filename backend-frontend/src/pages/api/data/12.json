@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "Vasco",
+    "awayTeam": "São Paulo",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-04-18",
+    "time": "18:30",
+    "stadium": "São Januário",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Chapecoense",
+    "awayTeam": "Botafogo",
+    "homeScore": 1,
+    "awayScore": 4,
+    "date": "2026-04-18",
+    "time": "18:30",
+    "stadium": "Arena Condá",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vitória",
+    "awayTeam": "Corinthians",
+    "homeScore": 0,
+    "awayScore": 0,
+    "date": "2026-04-18",
+    "time": "20:00",
+    "stadium": "Barradão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Cruzeiro",
+    "awayTeam": "Grêmio",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2026-04-18",
+    "time": "20:30",
+    "stadium": "Mineirão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Internacional",
+    "awayTeam": "Mirassol",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2026-04-19",
+    "time": "11:00",
+    "stadium": "Beira-Rio",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Santos",
+    "awayTeam": "Fluminense",
+    "homeScore": 2,
+    "awayScore": 3,
+    "date": "2026-04-19",
+    "time": "16:00",
+    "stadium": "Vila Belmiro",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Coritiba",
+    "awayTeam": "Atlético-MG",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2026-04-19",
+    "time": "16:00",
+    "stadium": "Couto Pereira",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Palmeiras",
+    "awayTeam": "Athletico-PR",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2026-04-19",
+    "time": "18:30",
+    "stadium": "Allianz Parque",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Bragantino",
+    "awayTeam": "Remo",
+    "homeScore": 4,
+    "awayScore": 2,
+    "date": "2026-04-19",
+    "time": "18:30",
+    "stadium": "Cícero de Souza Marques",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Flamengo",
+    "awayTeam": "Bahia",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2026-04-19",
+    "time": "19:30",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  }
+]

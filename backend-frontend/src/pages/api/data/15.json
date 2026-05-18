@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "Coritiba",
+    "awayTeam": "Internacional",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2026-05-09",
+    "time": "16:00",
+    "stadium": "Couto Pereira",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Fluminense",
+    "awayTeam": "Vitória",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2026-05-09",
+    "time": "18:00",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Bahia",
+    "awayTeam": "Cruzeiro",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2026-05-09",
+    "time": "21:00",
+    "stadium": "Casa de Apostas Arena Fonte Nova",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Atlético-MG",
+    "awayTeam": "Botafogo",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-05-10",
+    "time": "16:00",
+    "stadium": "Arena MRV",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Remo",
+    "awayTeam": "Palmeiras",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-05-10",
+    "time": "16:00",
+    "stadium": "Mangueirão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Santos",
+    "awayTeam": "Bragantino",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2026-05-10",
+    "time": "18:30",
+    "stadium": "Vila Belmiro",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Corinthians",
+    "awayTeam": "São Paulo",
+    "homeScore": 3,
+    "awayScore": 2,
+    "date": "2026-05-10",
+    "time": "18:30",
+    "stadium": "Neo Química Arena",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Mirassol",
+    "awayTeam": "Chapecoense",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-05-10",
+    "time": "18:30",
+    "stadium": "Maião",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Grêmio",
+    "awayTeam": "Flamengo",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2026-05-10",
+    "time": "19:30",
+    "stadium": "Arena do Grêmio",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vasco",
+    "awayTeam": "Athletico-PR",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2026-05-10",
+    "time": "20:30",
+    "stadium": "São Januário",
+    "started": true,
+    "finished": true
+  }
+]

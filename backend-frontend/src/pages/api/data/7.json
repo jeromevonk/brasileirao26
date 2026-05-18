@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "Palmeiras",
+    "awayTeam": "Botafogo",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-03-18",
+    "time": "19:00",
+    "stadium": "Allianz Parque",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Bahia",
+    "awayTeam": "Bragantino",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2026-03-18",
+    "time": "19:00",
+    "stadium": "Casa de Apostas Arena Fonte Nova",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Athletico-PR",
+    "awayTeam": "Cruzeiro",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-03-18",
+    "time": "19:30",
+    "stadium": "Arena da Baixada",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Mirassol",
+    "awayTeam": "Coritiba",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2026-03-18",
+    "time": "20:00",
+    "stadium": "Maião",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Atlético-MG",
+    "awayTeam": "São Paulo",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2026-03-18",
+    "time": "20:00",
+    "stadium": "Arena MRV",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vasco",
+    "awayTeam": "Fluminense",
+    "homeScore": 3,
+    "awayScore": 2,
+    "date": "2026-03-18",
+    "time": "21:30",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Santos",
+    "awayTeam": "Internacional",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2026-03-18",
+    "time": "21:30",
+    "stadium": "Vila Belmiro",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Grêmio",
+    "awayTeam": "Vitória",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2026-03-19",
+    "time": "19:00",
+    "stadium": "Arena do Grêmio",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Flamengo",
+    "awayTeam": "Remo",
+    "homeScore": 3,
+    "awayScore": 0,
+    "date": "2026-03-19",
+    "time": "20:00",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Chapecoense",
+    "awayTeam": "Corinthians",
+    "homeScore": 0,
+    "awayScore": 0,
+    "date": "2026-03-19",
+    "time": "21:30",
+    "stadium": "Arena Condá",
+    "started": true,
+    "finished": true
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "Atlético-MG",
+    "awayTeam": "Mirassol",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2026-05-16",
+    "time": "18:30",
+    "stadium": "Arena MRV",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Internacional",
+    "awayTeam": "Vasco",
+    "homeScore": 4,
+    "awayScore": 1,
+    "date": "2026-05-16",
+    "time": "18:30",
+    "stadium": "Beira-Rio",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Fluminense",
+    "awayTeam": "São Paulo",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-05-16",
+    "time": "19:00",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Palmeiras",
+    "awayTeam": "Cruzeiro",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-05-16",
+    "time": "21:00",
+    "stadium": "Arena Barueri",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Santos",
+    "awayTeam": "Coritiba",
+    "homeScore": 0,
+    "awayScore": 3,
+    "date": "2026-05-17",
+    "time": "11:00",
+    "stadium": "Neo Química Arena",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Botafogo",
+    "awayTeam": "Corinthians",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2026-05-17",
+    "time": "16:00",
+    "stadium": "Nilton Santos (Engenhão)",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Bahia",
+    "awayTeam": "Grêmio",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-05-17",
+    "time": "16:00",
+    "stadium": "Casa de Apostas Arena Fonte Nova",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Bragantino",
+    "awayTeam": "Vitória",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2026-05-17",
+    "time": "18:30",
+    "stadium": "Cícero de Souza Marques",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Chapecoense",
+    "awayTeam": "Remo",
+    "homeScore": 2,
+    "awayScore": 3,
+    "date": "2026-05-17",
+    "time": "18:30",
+    "stadium": "Arena Condá",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Athletico-PR",
+    "awayTeam": "Flamengo",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-05-17",
+    "time": "19:30",
+    "stadium": "Arena da Baixada",
+    "started": true,
+    "finished": true
+  }
+]

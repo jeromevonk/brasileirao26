@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "São Paulo",
+    "awayTeam": "Cruzeiro",
+    "homeScore": 4,
+    "awayScore": 1,
+    "date": "2026-04-04",
+    "time": "18:30",
+    "stadium": "Morumbis",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Coritiba",
+    "awayTeam": "Fluminense",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-04-04",
+    "time": "20:30",
+    "stadium": "Couto Pereira",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vasco",
+    "awayTeam": "Botafogo",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2026-04-04",
+    "time": "21:00",
+    "stadium": "São Januário",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Chapecoense",
+    "awayTeam": "Vitória",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-04-05",
+    "time": "16:00",
+    "stadium": "Arena Condá",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Flamengo",
+    "awayTeam": "Santos",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2026-04-05",
+    "time": "17:30",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Atlético-MG",
+    "awayTeam": "Athletico-PR",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-04-05",
+    "time": "17:30",
+    "stadium": "Arena MRV",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Corinthians",
+    "awayTeam": "Internacional",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2026-04-05",
+    "time": "19:30",
+    "stadium": "Neo Química Arena",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Bahia",
+    "awayTeam": "Palmeiras",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2026-04-05",
+    "time": "19:30",
+    "stadium": "Casa de Apostas Arena Fonte Nova",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Mirassol",
+    "awayTeam": "Bragantino",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2026-04-05",
+    "time": "20:00",
+    "stadium": "Maião",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Grêmio",
+    "awayTeam": "Remo",
+    "homeScore": 0,
+    "awayScore": 0,
+    "date": "2026-04-05",
+    "time": "20:30",
+    "stadium": "Arena do Grêmio",
+    "started": true,
+    "finished": true
+  }
+]
