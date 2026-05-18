@@ -57,3 +57,10 @@ npm start
 ## 📝 Licença
 
 Projeto pessoal para fins educacionais.
+
+## TODO
+
+Investigar se a [https://www.football-data.org/](https://www.football-data.org/) como API gratuita atenderia ao projeto.
+Por exemplo:
+
+ `GET https://api.football-data.org//v4/competitions/BSA/matches`
