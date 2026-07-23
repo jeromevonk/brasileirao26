@@ -1,18 +1,68 @@
 .tableContainer {
     max-width: 100%;
-    overflow-x: auto;
+    max-height: 80vh;
+    overflow: auto;
 }
 
-.stickyRank {
+/* ===== Sticky header row (vertical scroll) ===== */
+.tableContainer :global(thead th) {
     position: sticky;
+    top: 0;
+    z-index: 3;
+    background: #f5f5f5;
+    font-weight: 700;
+    font-size: 0.8rem;
+    white-space: nowrap;
+    border-bottom: 2px solid #ccc;
+}
+
+/* ===== Sticky rank column (horizontal scroll) ===== */
+.stickyRank {
+    position: sticky !important;
     left: 0;
-    background: white;
+    background: inherit;
     z-index: 2;
 }
 
+/* ===== Sticky team column (horizontal scroll) ===== */
 .stickyTeam {
-    position: sticky;
-    left: 48px; /* Adjust based on column width */
-    background: white;
-    z-index: 1;
+    position: sticky !important;
+    left: 42px;
+    background: inherit;
+    z-index: 2;
+    /* subtle shadow to hint there's content behind */
+    box-shadow: 2px 0 4px rgba(0, 0, 0, 0.08);
+    white-space: nowrap;
+}
+
+/* ===== Header cells that are sticky in BOTH axes need highest z-index ===== */
+.tableContainer :global(thead) .stickyRank,
+.tableContainer :global(thead) .stickyTeam {
+    z-index: 5;
+    background: #f5f5f5;
+}
+
+/* ===== Zebra striping ===== */
+.tableContainer :global(tbody tr:nth-of-type(even)) {
+    background-color: #fafafa;
+}
+
+.tableContainer :global(tbody tr:nth-of-type(even)) .stickyRank,
+.tableContainer :global(tbody tr:nth-of-type(even)) .stickyTeam {
+    background-color: #fafafa;
+}
+
+.tableContainer :global(tbody tr:nth-of-type(odd)) .stickyRank,
+.tableContainer :global(tbody tr:nth-of-type(odd)) .stickyTeam {
+    background-color: #fff;
+}
+
+/* ===== Hover keeps sticky columns consistent ===== */
+.tableContainer :global(tbody tr:hover) .stickyRank,
+.tableContainer :global(tbody tr:hover) .stickyTeam {
+    background-color: #f0f0f0;
+}
+
+.tableContainer :global(tbody tr:hover) {
+    background-color: #f0f0f0;
 }

@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "Flamengo",
+    "awayTeam": "Coritiba",
+    "homeScore": 3,
+    "awayScore": 0,
+    "date": "2026-05-30",
+    "time": "16:00",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Athletico-PR",
+    "awayTeam": "Mirassol",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2026-05-30",
+    "time": "16:00",
+    "stadium": "Arena da Baixada",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Grêmio",
+    "awayTeam": "Corinthians",
+    "homeScore": 1,
+    "awayScore": 3,
+    "date": "2026-05-30",
+    "time": "17:30",
+    "stadium": "Arena do Grêmio",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Bahia",
+    "awayTeam": "Botafogo",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-05-30",
+    "time": "17:30",
+    "stadium": "Casa de Apostas Arena Fonte Nova",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Santos",
+    "awayTeam": "Vitória",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2026-05-30",
+    "time": "20:00",
+    "stadium": "Vila Belmiro",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Bragantino",
+    "awayTeam": "Internacional",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2026-05-31",
+    "time": "11:00",
+    "stadium": "Cícero de Souza Marques",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vasco",
+    "awayTeam": "Atlético-MG",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2026-05-31",
+    "time": "16:00",
+    "stadium": "São Januário",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Palmeiras",
+    "awayTeam": "Chapecoense",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2026-05-31",
+    "time": "16:00",
+    "stadium": "Nubank Parque",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Cruzeiro",
+    "awayTeam": "Fluminense",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-05-31",
+    "time": "20:30",
+    "stadium": "Mineirão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Remo",
+    "awayTeam": "São Paulo",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2026-05-31",
+    "time": "20:30",
+    "stadium": "Mangueirão",
+    "started": true,
+    "finished": true
+  }
+]
