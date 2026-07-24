@@ -14,6 +14,9 @@ export default async function handler(req, res) {
     }
 
     await Promise.all(requests);
+
+    // Cache no CDN do Vercel: 2 min fresh, serve stale por até 5 min enquanto revalida
+    res.setHeader('Cache-Control', 's-maxage=120, stale-while-revalidate=300');
     res.status(200).json(responseData);
   } catch (error) {
     console.error("Error fetching data:", error);
