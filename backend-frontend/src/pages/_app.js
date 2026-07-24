@@ -54,19 +54,17 @@ export default function MyApp(props) {
       }))
     };
 
-    // Set listeners
-    window
-      .matchMedia(`(min-width: ${WIDTH_TRESHOLD}px)`)
-      .addEventListener('change', handleWidthResize);
+    const widthMq = window.matchMedia(`(min-width: ${WIDTH_TRESHOLD}px)`);
+    const heightMq = window.matchMedia(`(min-height: ${HEIGT_TRESHOLD}px)`);
 
-    window
-      .matchMedia(`(min-height: ${HEIGT_TRESHOLD}px)`)
-      .addEventListener('change', handleHeigthResize);
+    // Set listeners
+    widthMq.addEventListener('change', handleWidthResize);
+    heightMq.addEventListener('change', handleHeigthResize);
 
     // Cleanup
     return () => {
-      window.removeEventListener('change', handleWidthResize);
-      window.removeEventListener('change', handleHeigthResize);
+      widthMq.removeEventListener('change', handleWidthResize);
+      heightMq.removeEventListener('change', handleHeigthResize);
     }
   }, []);
 

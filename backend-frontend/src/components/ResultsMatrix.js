@@ -82,6 +82,15 @@ const ResultsMatrix = ({ matches }) => {
         setHoveredCell({ row: null, col: null });
     };
 
+    const resultsLookup = React.useMemo(() => {
+        const lookup = {};
+        allMatches.forEach(match => {
+            const key = `${match.homeTeam}__${match.awayTeam}`;
+            lookup[key] = match;
+        });
+        return lookup;
+    }, [allMatches]);
+
     if (teams.length === 0) return null;
 
     return (
@@ -109,9 +118,6 @@ const ResultsMatrix = ({ matches }) => {
                         </TableHead>
                         <TableBody>
                             {teams.map((homeTeam, rowIndex) => {
-                                // Get all matches for this home team using the service
-                                const homeTeamMatches = matchesService.getMatchesFromTeam(matches, homeTeam.name);
-
                                 return (
                                     <TableRow key={homeTeam.name}>
                                         <TeamHeaderCell
@@ -132,10 +138,8 @@ const ResultsMatrix = ({ matches }) => {
                                             if (isDiagonal) {
                                                 cellContent = '';
                                             } else {
-                                                // Find the specific match where homeTeam is Home and awayTeam is Away
-                                                const match = homeTeamMatches.find(m =>
-                                                    m.homeTeam === homeTeam.name && m.awayTeam === awayTeam.name
-                                                );
+                                                // Find the specific match using the memoized lookup
+                                                const match = resultsLookup[`${homeTeam.name}__${awayTeam.name}`];
 
                                                 if (match) {
                                                     if (match.started) {

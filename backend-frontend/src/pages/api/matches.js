@@ -27,21 +27,12 @@ export default async function handler(req, res) {
 async function getRoundData(round) {
   const filePath = process.cwd() + `/src/pages/api/data/${round}.json`;
 
-  // If file exists, use it
-  if (fs.existsSync(filePath)) {
-    return getRoundFromFile(filePath);
-  } else {
-    const data = await matches_helper.getRoundFromAPI(round);
-
-    return data;
-  }
-}
-
-function getRoundFromFile(filePath) {
   try {
-    const data = fs.readFileSync(filePath, 'utf8');
+    const data = await fs.promises.readFile(filePath, 'utf8');
     return JSON.parse(data);
   } catch (error) {
-    throw new Error(`Error reading file ${filePath}: ${error.message}`);
+    // If file doesn't exist or can't be read, fetch from API
+    const data = await matches_helper.getRoundFromAPI(round);
+    return data;
   }
 }
