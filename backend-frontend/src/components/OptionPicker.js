@@ -162,7 +162,8 @@ export default function OptionPicker(props) {
           <ToggleButtonGroup
             color="primary"
             exclusive
-            onChange={(_event, value) => { handleChange('option', value) }}
+            value={selected.option}
+            onChange={(_event, value) => { if (value !== null) handleChange('option', value) }}
           >
             {
               options.map(opt => {
@@ -171,7 +172,6 @@ export default function OptionPicker(props) {
                     key={opt.key}
                     value={opt.key}
                     size="small" sx={padding}
-                    selected={opt === selected.option}
                   >
                     {largeScreen.width ? opt.long : opt.short}
                   </ToggleButton>)
