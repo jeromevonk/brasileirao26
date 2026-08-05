@@ -1,0 +1,112 @@
+[
+  {
+    "homeTeam": "Athletico-PR",
+    "awayTeam": "Internacional",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2026-07-25",
+    "time": "18:30",
+    "stadium": "Arena da Baixada",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Santos",
+    "awayTeam": "Chapecoense",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2026-07-25",
+    "time": "18:30",
+    "stadium": "Vila Belmiro",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Vasco",
+    "awayTeam": "Mirassol",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-07-25",
+    "time": "20:30",
+    "stadium": "São Januário",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Cruzeiro",
+    "awayTeam": "Botafogo",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2026-07-26",
+    "time": "16:00",
+    "stadium": "Mineirão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Bahia",
+    "awayTeam": "Corinthians",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-07-26",
+    "time": "16:00",
+    "stadium": "Casa de Apostas Arena Fonte Nova",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Bragantino",
+    "awayTeam": "Coritiba",
+    "homeScore": 0,
+    "awayScore": 0,
+    "date": "2026-07-26",
+    "time": "18:30",
+    "stadium": "Cícero de Souza Marques",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Grêmio",
+    "awayTeam": "Fluminense",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-07-26",
+    "time": "18:30",
+    "stadium": "Arena do Grêmio",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Flamengo",
+    "awayTeam": "São Paulo",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-07-26",
+    "time": "18:30",
+    "stadium": "Maracanã",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Remo",
+    "awayTeam": "Vitória",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2026-07-26",
+    "time": "19:30",
+    "stadium": "Mangueirão",
+    "started": true,
+    "finished": true
+  },
+  {
+    "homeTeam": "Palmeiras",
+    "awayTeam": "Atlético-MG",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2026-07-26",
+    "time": "19:30",
+    "stadium": "Nubank Parque",
+    "started": true,
+    "finished": true
+  }
+]
